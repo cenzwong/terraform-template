@@ -1,3 +1,7 @@
+# defines the three Azure providers this configuration uses
+
+
+
 provider "azurerm" {
   features {}
 
